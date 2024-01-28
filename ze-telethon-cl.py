@@ -56,7 +56,7 @@ except FileNotFoundError:
     api_hash = '1ed7adecc635e51724dfa7300d9fb328'
     bot_token = '6267905231:AAEtYCDC53VKXrkkkzTjC7y0ZVA3edkZjYI'
     DEVLOO = '6657454969'
-    MAX_ACCOUNTS = int('70')
+    MAX_ACCOUNTS = int('50')
     user_bot = 'y_ndbot'
     id_bot = int('6267905231')
     
