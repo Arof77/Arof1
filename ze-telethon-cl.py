@@ -181,9 +181,7 @@ async def start(event):
         [Button.inline('⬩ مسح بيانات البوت ⬩', 'format')],    
          [Button.inline('༺ 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱 ༻', 'button0')]
         ]
-        await event.edit("""**──╮╭─
-╭─╯│┈
-╰──╰─⇲**""", buttons=buttons)
+        await event.edit("""*@u6uug*""", buttons=buttons)
 
 
 
@@ -344,9 +342,7 @@ async def start(event):
         
          [Button.inline('༺ 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱 ༻', 'button0')]
         ]
-        await bot.send_message(chat, '''**──╮╭─
-╭─╯│┈
-╰──╰─⇲**''', buttons=buttons)
+        await bot.send_message(chat, ''*@u6uug*'', buttons=buttons)
 
 
 #--------------------------------------------------------#
