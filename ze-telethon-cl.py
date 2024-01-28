@@ -54,11 +54,11 @@ try:
 except FileNotFoundError:
     api_id = '29202444'
     api_hash = '1ed7adecc635e51724dfa7300d9fb328'
-    bot_token = '6267905231:AAEtYCDC53VKXrkkkzTjC7y0ZVA3edkZjYI'
+    bot_token = '6815607475:AAGPk2E7yT1fLej3NZGdwrLoklEmd1NMnME'
     DEVLOO = '6657454969'
-    MAX_ACCOUNTS = int('50')
-    user_bot = 'y_ndbot'
-    id_bot = int('6267905231')
+    MAX_ACCOUNTS = int('150')
+    user_bot = 'ar_fbot'
+    id_bot = int('6815607475')
     
     data = {
         'api_id': api_id,
